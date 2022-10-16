@@ -1,0 +1,1 @@
+# 7-exercises-with-bash
